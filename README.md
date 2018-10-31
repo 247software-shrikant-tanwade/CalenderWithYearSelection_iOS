@@ -1,6 +1,6 @@
 # CalenderWithYearSelection_iOS
 
-Calender with year and month popup
+Customise FSCalendar with selection of date, year and month 
 
 Developed using
 Xcode 10.0,
